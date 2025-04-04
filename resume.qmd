@@ -1,86 +1,65 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Logan Lay's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Logan Lay
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="lay23004@byui.edu">lay23004@byui.edu</a>
+| <a href="https://github.com/Logan-Lay21">My Github profile</a>
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+## Summary
+Hardworking computer science student seeking to apply skills learned through education in a professional, relevant setting. Customer service strengthened attention to detail, reliability, and positivity under pressure. Committed to continuous improvement and problem solving. Quick learner with experience as a camp counselor and math tutor, providing strong communication skills with clients and colleagues. Loves serving others and finds joy in helping people understand simple and complex concepts.
 
 ## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+**Computer Science**                `Aug 2023 - Dec 2026`
+Brigham Young University-Idaho      Rexburg, Idaho
 
 
 
-## Awards
+**General Education**               `Aug 2020 - Dec 2020`
+Sierra College                      Rocklin, California
 
-`2012`
-President, *Royal Society*, London, UK
+## Experience
 
-Associate, *French Academy of Science*, Paris, France
+**Teachers Assistant**             `Jan 2025 - Present`
+BYU-Idaho                          Rexburg, ID
+* Guide students 10+ hours a week in understanding common and complex math problems through examples and verbal communication
+* Receive weekly training instruction to construct good teaching habits
 
+**Math Tutor**                      `Jan 2024 - Present`
+BYU-Idaho Math Center               Rexburg, ID
+* Guide students 10 hours a week in understanding common and complex math problems through examples and verbal communication; attend weekly training meetings to construct good teaching habits
+* Addressed students questions through 5+ online chats at a time and discussed answers to problems and explained solutions
+* Tutor all classes of Calculus I and below
 
+**Manager/Owner**                   `2012-2021`
+Lay's Landscaping                   Rocklin, CA
+* Developed a solid client base of weekly mow, edge, blow clients. Marketed on Next Door and Facebook groups to find business
+* Contacted potential clients to provide an estimate for work, set up long-term contracts, invoice, money collect, and perform the work. Additionally enjoyed guiding clients on what types of plants are good for certain locations in the yard
 
-## Publications
+## Skills
+* Cooperative team member
+* Extremely organized
+* Quick learner, ready to face a challenge
+* Outstanding interpersonal skills
+* Attention to detail
+* Energetic
+* Strong verbal communication
+* English (Native)
+* Python experience
+* C# experience
+* Basic SQL experience
+* HTML, CSS, and Javascript experience
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Activities and Honors
+* Eagle Scout Rank with the Boy Scouts of America, March 2018
+* Full-time volunteer for The Church of Jesus Christ of Latter-Day Saints in St. Louis Missouri (August 2021-August 2023)
+* Graduated high school a year early with honors (Summer 2020)
+* Managed and ran a landscaping business, starting it from scratch
+* Competed in 2025 USU hackathon 
 
 
 
