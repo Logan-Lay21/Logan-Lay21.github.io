@@ -50,26 +50,20 @@ Lay's Landscaping - Rocklin, CA
 
 ## Skills
 
-* Cooperative team member
-* Extremely organized
-* Quick learner, ready to face a challenge
-* Outstanding interpersonal skills
-* Attention to detail
-* Energetic
-* Strong verbal communication
-* English (Native)
-* Python experience
-* C# experience
-* Basic SQL experience
-* HTML, CSS, and Javascript experience
+| Cooperative team member                  | Extremely organized                  |
+| Quick learner, ready to face a challenge | Outstanding interpersonal skills     |
+| Attention to detail                      | Energetic                            |
+| Strong verbal communication              | English (Native)                     |
+| Python experience                        | C# experience                        |
+| Basic SQL experience                     | HTML, CSS, and Javascript experience |
 
 ## Activities and Honors
 
-* Eagle Scout Rank with the Boy Scouts of America, March 2018
+* Competed in 2025 USU hackathon 
 * Full-time volunteer for The Church of Jesus Christ of Latter-Day Saints in St. Louis Missouri (August 2021-August 2023)
 * Graduated high school a year early with honors (Summer 2020)
+* Eagle Scout Rank with the Boy Scouts of America, March 2018
 * Managed and ran a landscaping business, starting it from scratch
-* Competed in 2025 USU hackathon 
 
 
 
