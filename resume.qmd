@@ -50,12 +50,18 @@ Lay's Landscaping - Rocklin, CA
 
 ## Skills
 
-| Cooperative team member                  | Extremely organized                  |
-| Quick learner, ready to face a challenge | Outstanding interpersonal skills     |
-| Attention to detail                      | Energetic                            |
-| Strong verbal communication              | English (Native)                     |
-| Python experience                        | C# experience                        |
-| Basic SQL experience                     | HTML, CSS, and Javascript experience |
+* Cooperative team member
+* Extremely organized
+* Quick learner, ready to face a challenge
+* Outstanding interpersonal skills
+* Attention to detail
+* Energetic
+* Strong verbal communication
+* English (Native)
+* Python experience
+* C# experience
+* Basic SQL experience
+* HTML, CSS, and Javascript experience
 
 ## Activities and Honors
 
